@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectACS1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectACS1_jar</output-path>
+    <root id="archive" name="ProjectACS1.jar">
+      <element id="module-output" name="ProjectACS1" />
+      <element id="extracted-dir" path="C:/hadoop/repository/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
